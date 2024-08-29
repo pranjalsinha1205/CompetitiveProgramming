@@ -15,3 +15,18 @@ Competitive programming class programs.
 6) 1 2 3 4 5 -> store in array as they are already sorted
 
 7) 2 3 1 4 5 -> sotre in hashset  as they are not sorted
+
+# 29/08/2024
+1) String is a sequence of characters, numbers, symbols all enclosed within double quotes.
+
+2) Hashmap is a data structure with key-value pairs where the time complexity to fetch a value using a key is O(1)
+
+3) It is there in the java.util package
+
+4) We use it when we have to store a vvery large dataset that might need to access some particular value later. Ex- Aadhar card dataset
+
+5) Methods in it are, put(key, value), remove(key), get(key), containsKey(key), size(), isEmpty(), clear()-> removes all the mappings in the hashmap, keySet()-> returns the set of keys
+
+6) Call Stack has 5 threads, reference handler(it works with new, it will be the first thread), finalizer(), single dispatcher, attach listener, commmon cleaner(garbage collector)
+
+7) 
