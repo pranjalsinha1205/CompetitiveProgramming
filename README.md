@@ -27,6 +27,4 @@ Competitive programming class programs.
 
 5) Methods in it are, put(key, value), remove(key), get(key), containsKey(key), size(), isEmpty(), clear()-> removes all the mappings in the hashmap, keySet()-> returns the set of keys
 
-6) Call Stack has 5 threads, reference handler(it works with new, it will be the first thread), finalizer(), single dispatcher, attach listener, commmon cleaner(garbage collector)
-
-7) 
+6) Call Stack has 5 threads, reference handler(it works with new, it will be the first thread), finalizer(), single dispatcher, attach listener, commmon cleaner(garbage collector) 
